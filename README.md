@@ -26,11 +26,10 @@ This repository aims to cover various system design patterns including:
 ### ✅ Implemented
 
 - [x] **Static Site Hosting** - Global CDN with disaster recovery
-
+- [X] **Microservices Architecture** - Containerized services with load balancing
 
 ### 🔄 In Progress
 
-- [ ] **Microservices Architecture** - Containerized services with load balancing
 - [ ] **Event-Driven Architecture** - Message queues and event processing
 
 ## 🎨 Design Principles
